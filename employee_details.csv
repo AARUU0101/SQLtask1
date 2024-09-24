@@ -1,0 +1,55 @@
+"emp_id","full_name","job_title","department","business_unit","gender","ethnicity","age","hire_date","annual_salary","bonus","country","city","experence"
+1,"Emily Davis","Sr. Manger","IT","Research & Development","Female","Black",55,"2016-04-08",141604,3,"United States","Seattle",12
+2,"Luna Sanders","Director","Finance","Speciality Products","Female","Caucasian",50,"2006-10-26",163099,6,"United States","Chicago",14
+3,"Penelope Jordan","Computer Systems Manager","IT","Manufacturing","Female","Caucasian",26,"2019-09-27",84913,9,"United States","Chicago",16
+4,"Austin Vo","Sr. Analyst","Finance","Manufacturing","Male","Asian",55,"1995-11-20",95409,12,"United States","Phoenix",17
+5,"Ruby Barnes","Manager","IT","Corporate","Female","Caucasian",27,"2020-07-01",119746,15,"United States","Phoenix",19
+6,"Luke Martin","Analyst","Finance","Manufacturing","Male","Black",25,"2020-05-16",41336,18,"United States","Miami",10
+7,"Easton Bailey","Manager","Accounting","Manufacturing","Male","Caucasian",29,"2019-01-25",113527,21,"United States","Austin",10
+8,"Madeline Walker","Sr. Analyst","Finance","Speciality Products","Female","Caucasian",34,"2018-06-13",77203,24,"United States","Chicago",10
+9,"Savannah Ali","Sr. Manger","Human Resources","Manufacturing","Female","Asian",36,"2009-02-11",157333,27,"United States","Miami",10
+10,"Camila Rogers","Controls Engineer","Engineering","Speciality Products","Female","Caucasian",27,"2021-10-21",109851,30,"United States","Seattle",10
+11,"Eli Jones","Manager","Human Resources","Manufacturing","Male","Caucasian",59,"1999-03-14",105086,33,"United States","Austin",10
+12,"Robert Yang","Sr. Analyst","Accounting","Speciality Products","Male","Asian",31,"2017-11-04",97078,36,"United States","Austin",10
+13,"Isabella Xi","Vice President","Marketing","Research & Development","Female","Asian",41,"2013-03-13",249270,39,"United States","Seattle",10
+14,"Bella Powell","Director","Finance","Research & Development","Female","Black",65,"2002-03-04",175837,42,"United States","Phoenix",10
+15,"Camila Silva","Sr. Manger","Marketing","Speciality Products","Female","Latino",64,"2003-12-01",154828,45,"United States","Seattle",10
+16,"David Barnes","Director","IT","Corporate","Male","Caucasian",64,"2013-11-03",186503,48,"United States","Columbus",54
+17,"Eva Rivera","Director","Sales","Manufacturing","Female","Latino",36,"2021-04-02",151703,51,"United States","Miami",23
+18,"Leonardo Dixon","Analyst","Sales","Speciality Products","Male","Caucasian",37,"2019-09-05",49998,54,"United States","Seattle",16
+19,"Jose Henderson","Director","Human Resources","Speciality Products","Male","Black",41,"2015-04-17",152239,57,"United States","Columbus",12
+20,"Wyatt Chin","Vice President","Engineering","Speciality Products","Male","Asian",43,"2004-06-07",246231,60,"United States","Seattle",18
+21,"Ezekiel Kumar","IT Coordinator","IT","Research & Development","Male","Asian",28,"2017-06-25",54775,63,"United States","Columbus",44
+22,"Angel Powell","Analyst II","Sales","Research & Development","Male","Caucasian",61,"2008-07-11",66521,66,"United States","Seattle",3012
+23,"Caroline Jenkins","Analyst","Finance","Research & Development","Female","Caucasian",27,"2018-05-06",49011,69,"United States","Chicago",33
+24,"Nora Brown","Enterprise Architect","IT","Manufacturing","Female","Caucasian",32,"2014-02-11",99575,72,"United States","Austin",15
+25,"Jackson Perry","Vice President","Marketing","Research & Development","Male","Caucasian",27,"2019-10-20",256420,75,"United States","Phoenix",32
+26,"Riley Padilla","Technical Architect","IT","Manufacturing","Female","Latino",35,"2013-05-15",78940,78,"United States","Miami",12
+27,"Kennedy Foster","Manager","Marketing","Speciality Products","Female","Caucasian",53,"2013-11-23",113135,81,"United States","Austin",14
+28,"John Moore","Vice President","IT","Speciality Products","Male","Caucasian",52,"2005-11-08",199808,84,"United States","Seattle",18
+29,"Sadie Washington","Sr. Manger","Marketing","Research & Development","Female","Caucasian",29,"2019-05-24",122350,87,"United States","Phoenix",11
+30,"Gabriel Holmes","Enterprise Architect","IT","Research & Development","Male","Caucasian",40,"2010-11-04",92952,90,"United States","Seattle",19
+31,"Wyatt Rojas","Computer Systems Manager","IT","Corporate","Male","Latino",32,"2013-03-20",79921,93,"United States","Austin",20
+32,"Eva Coleman","Director","IT","Research & Development","Female","Black",37,"2009-09-20",167199,96,"United States","Seattle",11
+33,"Dominic Clark","Quality Engineer","Engineering","Research & Development","Male","Caucasian",52,"2012-10-17",71476,99,"United States","Phoenix",11
+34,"Lucy Alexander","Director","Engineering","Manufacturing","Female","Caucasian",45,"2014-10-29",189420,102,"United States","Seattle",23
+35,"Everleigh Washington","HRIS Analyst","Human Resources","Research & Development","Female","Caucasian",64,"2001-10-20",64057,105,"United States","Phoenix",45
+36,"Leilani Butler","Analyst II","Marketing","Manufacturing","Female","Black",27,"2021-09-21",68728,108,"United States","Phoenix",43
+37,"John Contreras","Analyst II","Marketing","Manufacturing","Male","Latino",35,"2011-05-15",66889,111,"United States","Columbus",34
+38,"Rylee Yu","Director","Accounting","Research & Development","Female","Asian",36,"2015-09-29",178700,114,"United States","Seattle",11
+39,"Piper Lewis","Field Engineer","Engineering","Research & Development","Female","Caucasian",33,"2018-12-22",83990,117,"United States","Chicago",23
+40,"Stella Alexander","Automation Engineer","Engineering","Corporate","Female","Caucasian",52,"2005-12-10",102043,120,"United States","Chicago",44
+41,"Addison Do","Operations Engineer","Engineering","Manufacturing","Female","Asian",46,"2001-05-30",90678,123,"United States","Columbus",21
+42,"Zoey Jackson","Business Partner","Human Resources","Manufacturing","Female","Black",46,"2008-08-21",59067,126,"United States","Miami",14
+43,"Skylar Carrillo","Engineering Manager","Engineering","Corporate","Female","Latino",44,"2008-12-18",92753,129,"United States","Austin",11
+44,"Christian Sanders","Vice President","Human Resources","Speciality Products","Male","Black",45,"2013-08-07",236946,132,"United States","Seattle",13
+45,"Penelope Coleman","Analyst","Finance","Corporate","Female","Black",36,"2021-08-27",48906,135,"United States","Miami",13
+46,"Piper Richardson","Sr. Analyst","Sales","Corporate","Female","Caucasian",38,"2008-01-27",80024,138,"United States","Columbus",15
+47,"Everly Walker","HRIS Analyst","Human Resources","Speciality Products","Female","Caucasian",41,"2009-10-23",54415,141,"United States","Seattle",65
+48,"Aurora Ali","Manager","Marketing","Research & Development","Female","Asian",30,"2016-04-24",120341,144,"United States","Seattle",34
+49,"Penelope Guerrero","Vice President","IT","Speciality Products","Female","Latino",43,"2009-08-04",208415,147,"United States","Seattle",13
+50,"Anna Mehta","Cloud Infrastructure Architect","IT","Speciality Products","Female","Asian",32,"2020-01-05",78844,150,"United States","Seattle",13
+51,"William Foster","Field Engineer","Engineering","Manufacturing","Male","Caucasian",58,"2002-05-23",76354,153,"United States","Phoenix",13
+52,"Jade Rojas","Director","Finance","Speciality Products","Female","Latino",37,"2019-01-28",165927,156,"United States","Phoenix",1
+53,"David Chu","Controls Engineer","Engineering","Corporate","Male","Asian",55,"1998-09-03",86299,159,"United States","Seattle",3
+54,"Samuel Morales","Analyst II","Finance","Corporate","Male","Latino",34,"2015-06-27",57008,162,"United States","Phoenix",4
